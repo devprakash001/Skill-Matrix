@@ -1,0 +1,10 @@
+SMAP
+rules_jsp.java
+JSP
+*S JSP
+*F
++ 0 rules.jsp
+rules.jsp
+*L
+1,172:44
+*E

@@ -1,0 +1,12 @@
+SMAP
+display_005fstudent_005finfo_jsp.java
+JSP
+*S JSP
+*F
++ 0 display_student_info.jsp
+display_student_info.jsp
+*L
+5,104:46
+109,46:151
+154,4:197
+*E
